@@ -1,0 +1,11 @@
+Determinants of House Prices
+____________________________
+- Location
+- Neighbourhood
+- Supply of new houses
+- Income
+- Demographic trends
+- Income
+- Interest rates
+- Credit and loan standards
+- Ease/tightening of financial conditions
